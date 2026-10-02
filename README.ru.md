@@ -4,10 +4,10 @@
 
 **Рисуешь мышью на чёрном холсте - свёрточная сеть на PyTorch говорит, что это. Цифры, буквы, фигуры, бытовые предметы и математические знаки; несколько символов подряд читаются как число или строка.**
 
-[Скачать для Windows](https://github.com/ALEXalesha/IntelegienceDrawer/releases/latest) &nbsp;·&nbsp; [English](README.md)
+[Скачать для Windows](https://github.com/ALEXalesha/IntelligenceDrawer/releases/latest) &nbsp;·&nbsp; [English](README.md)
 
-[![CI](https://github.com/ALEXalesha/IntelegienceDrawer/actions/workflows/ci.yml/badge.svg)](https://github.com/ALEXalesha/IntelegienceDrawer/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/ALEXalesha/IntelegienceDrawer?color=16a34a)](https://github.com/ALEXalesha/IntelegienceDrawer/releases/latest)
+[![CI](https://github.com/ALEXalesha/IntelligenceDrawer/actions/workflows/ci.yml/badge.svg)](https://github.com/ALEXalesha/IntelligenceDrawer/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/ALEXalesha/IntelligenceDrawer?color=16a34a)](https://github.com/ALEXalesha/IntelligenceDrawer/releases/latest)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 <img src="docs/screenshots/window.png" width="820" alt="Окно DrawGuess">

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Публикация на GitHub: https://github.com/ALEXalesha/IntelegienceDrawer
+# Публикация на GitHub: https://github.com/ALEXalesha/IntelligenceDrawer
 #
 #   bash tools/publish_github.sh            # только код
 #   bash tools/publish_github.sh vX.Y.Z     # код и тег
@@ -27,7 +27,7 @@
 set -euo pipefail
 
 export PATH="$PATH:/c/Program Files/GitHub CLI"
-REPO=ALEXalesha/IntelegienceDrawer
+REPO=ALEXalesha/IntelligenceDrawer
 PRIVATE_EMAIL="$(git config user.email)"
 PUBLIC_EMAIL=203467574+ALEXalesha@users.noreply.github.com
 LAN_GITEA="$(git remote get-url origin | sed -E 's#^[a-z]+://([^/:]+).*#\1#')"

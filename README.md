@@ -4,10 +4,10 @@
 
 **Draw with the mouse on a black canvas and a PyTorch convolutional network says what it is. Digits, letters, shapes, everyday objects and maths symbols; several symbols in a row are read as a number or a string.**
 
-[Download for Windows](https://github.com/ALEXalesha/IntelegienceDrawer/releases/latest) &nbsp;·&nbsp; [Русская версия этого файла](README.ru.md)
+[Download for Windows](https://github.com/ALEXalesha/IntelligenceDrawer/releases/latest) &nbsp;·&nbsp; [Русская версия этого файла](README.ru.md)
 
-[![CI](https://github.com/ALEXalesha/IntelegienceDrawer/actions/workflows/ci.yml/badge.svg)](https://github.com/ALEXalesha/IntelegienceDrawer/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/ALEXalesha/IntelegienceDrawer?color=16a34a)](https://github.com/ALEXalesha/IntelegienceDrawer/releases/latest)
+[![CI](https://github.com/ALEXalesha/IntelligenceDrawer/actions/workflows/ci.yml/badge.svg)](https://github.com/ALEXalesha/IntelligenceDrawer/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/ALEXalesha/IntelligenceDrawer?color=16a34a)](https://github.com/ALEXalesha/IntelligenceDrawer/releases/latest)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 <img src="docs/screenshots/window.png" width="820" alt="DrawGuess window">
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-`model.pt` is in the repository, so nothing has to be trained first. Ready Windows builds - installer and portable - are on the [releases page](https://github.com/ALEXalesha/IntelegienceDrawer/releases/latest); they carry a CPU build of PyTorch, which is why they weigh about 170 MB. Since 1.3.1 the installer is per user (`%LOCALAPPDATA%\Programs\DrawGuess`) and asks for no admin rights. The window opens where it was closed (`%APPDATA%\DrawGuess\window.json`); its size is fixed, so only the place is kept.
+`model.pt` is in the repository, so nothing has to be trained first. Ready Windows builds - installer and portable - are on the [releases page](https://github.com/ALEXalesha/IntelligenceDrawer/releases/latest); they carry a CPU build of PyTorch, which is why they weigh about 170 MB. Since 1.3.1 the installer is per user (`%LOCALAPPDATA%\Programs\DrawGuess`) and asks for no admin rights. The window opens where it was closed (`%APPDATA%\DrawGuess\window.json`); its size is fixed, so only the place is kept.
 
 ## Tests
 
