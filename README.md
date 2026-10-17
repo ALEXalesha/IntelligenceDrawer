@@ -14,6 +14,9 @@
 
 </div>
 
+[![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
+Code, tests and docs are written by Claude (Anthropic) in Claude Code. Ideas, testing and decisions - Alexey.
+
 > **The interface is in Russian.** In the screenshot above, "Думаю это" means "I think it is" and "По символам" means "symbol by symbol". The class labels for objects are Russian too.
 
 ## What it knows
