@@ -6,16 +6,13 @@
 
 [Download for Windows](https://github.com/ALEXalesha/IntelligenceDrawer/releases/latest) &nbsp;·&nbsp; [Русская версия этого файла](README.ru.md)
 
-[![CI](https://github.com/ALEXalesha/IntelligenceDrawer/actions/workflows/ci.yml/badge.svg)](https://github.com/ALEXalesha/IntelligenceDrawer/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/ALEXalesha/IntelligenceDrawer?color=16a34a)](https://github.com/ALEXalesha/IntelligenceDrawer/releases/latest)
-[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Status](https://img.shields.io/badge/status-stable-brightgreen)](#) [![Release](https://img.shields.io/github/v/release/ALEXalesha/IntelligenceDrawer)](https://github.com/ALEXalesha/IntelligenceDrawer/releases/latest) [![CI](https://github.com/ALEXalesha/IntelligenceDrawer/actions/workflows/ci.yml/badge.svg)](https://github.com/ALEXalesha/IntelligenceDrawer/actions/workflows/ci.yml) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/) [![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
+
+Code, tests and docs are written by Claude (Anthropic) in Claude Code. Ideas, testing and decisions - Alexey.
 
 <img src="docs/screenshots/window.png" width="820" alt="DrawGuess window">
 
 </div>
-
-[![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
-Code, tests and docs are written by Claude (Anthropic) in Claude Code. Ideas, testing and decisions - Alexey.
 
 > **The interface is in Russian.** In the screenshot above, "Думаю это" means "I think it is" and "По символам" means "symbol by symbol". The class labels for objects are Russian too.
 

@@ -6,16 +6,13 @@
 
 [Скачать для Windows](https://github.com/ALEXalesha/IntelligenceDrawer/releases/latest) &nbsp;·&nbsp; [English](README.md)
 
-[![CI](https://github.com/ALEXalesha/IntelligenceDrawer/actions/workflows/ci.yml/badge.svg)](https://github.com/ALEXalesha/IntelligenceDrawer/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/ALEXalesha/IntelligenceDrawer?color=16a34a)](https://github.com/ALEXalesha/IntelligenceDrawer/releases/latest)
-[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Status](https://img.shields.io/badge/status-stable-brightgreen)](#) [![Release](https://img.shields.io/github/v/release/ALEXalesha/IntelligenceDrawer)](https://github.com/ALEXalesha/IntelligenceDrawer/releases/latest) [![CI](https://github.com/ALEXalesha/IntelligenceDrawer/actions/workflows/ci.yml/badge.svg)](https://github.com/ALEXalesha/IntelligenceDrawer/actions/workflows/ci.yml) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/) [![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
+
+Код, тесты и документация этого проекта написаны Claude (Anthropic) в Claude Code. Идеи, проверка и решения - Алексей.
 
 <img src="docs/screenshots/window.png" width="820" alt="Окно DrawGuess">
 
 </div>
-
-[![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
-Код, тесты и документация этого проекта написаны Claude (Anthropic) в Claude Code. Идеи, проверка и решения - Алексей.
 
 ## Что распознаёт
 
