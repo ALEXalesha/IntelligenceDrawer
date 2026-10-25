@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/icon.png" width="96" alt="">
+
 # DrawGuess
 
 **Draw with the mouse on a black canvas and a PyTorch convolutional network says what it is. Digits, letters, shapes, everyday objects and maths symbols; several symbols in a row are read as a number or a string.**
